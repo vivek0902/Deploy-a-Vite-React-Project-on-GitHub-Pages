@@ -143,5 +143,5 @@ https://your-github-username.github.io/your-repo-name/
 
 ---
 
-🎉 **Your Vite App is Now Live on GitHub Pages!** 🚀😊
+ **Your Vite App is Now Live on GitHub Pages!** 
 
