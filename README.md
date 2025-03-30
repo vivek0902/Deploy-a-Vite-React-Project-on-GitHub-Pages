@@ -1,4 +1,4 @@
-# 🚀 Step-by-Step Guide to Deploy a Vite React Project on GitHub Pages
+#  Step-by-Step Guide to Deploy a Vite React Project on GitHub Pages
 
 Follow these steps to deploy your Vite React project on GitHub Pages.
 
@@ -91,12 +91,12 @@ https://your-github-username.github.io/your-repo-name/
 
 ---
 
-## 🎉 Your Vite React App is Now Live on GitHub Pages!
-Let me know if you run into any issues. 🚀😊
+##  Your Vite React App is Now Live on GitHub Pages!
+Let me know if you run into any issues. 
 
 ---
 
-## 🔍 If `gh-pages` Branch is Not Created Automatically
+##  If `gh-pages` Branch is Not Created Automatically
 If `npm run deploy` didn’t create the `gh-pages` branch, follow these steps manually:
 
 ### ✅ 1. Verify Existing Branches
